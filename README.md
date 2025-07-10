@@ -1,6 +1,6 @@
 # 🦄 SimpleDEX – Decentralized Token Exchange on Scroll Sepolia
 
-**SimpleDEX** is a minimal **Decentralized Exchange (DEX)** built in Solidity and deployed on the **Scroll Sepolia** testnet. It allows users to swap between two ERC-20 tokens (`TokenA` and `TokenB`) using the **constant product formula** (Uniswap V1-style), manage liquidity pools, and query real-time token prices.
+**SimpleDEX** is a **Decentralized Exchange (DEX)** built in Solidity and deployed on the **Scroll Sepolia** testnet. It allows users to swap between two ERC-20 tokens (`TokenA` and `TokenB`) using the **constant product formula** (Uniswap V1-style), manage liquidity pools, and query real-time token prices.
 
 ---
 
